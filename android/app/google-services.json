@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "933118146142",
+    "firebase_url": "https://loja-virtual-lady.firebaseio.com",
+    "project_id": "loja-virtual-lady",
+    "storage_bucket": "loja-virtual-lady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933118146142:android:4b4b5e791823aa98e0a6cf",
+        "android_client_info": {
+          "package_name": "br.com.mvtelecom.loja_virtual_lady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933118146142-r800e5s1aj1ood95vou2v5reum0ag1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQDxWzFPnsYFA0tMVPg7sInpl7jLL900"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933118146142-r800e5s1aj1ood95vou2v5reum0ag1va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
